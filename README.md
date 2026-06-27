@@ -15,3 +15,8 @@ El script de Python realiza las siguientes tareas críticas de ingeniería de da
 6. **Clasificación Cualitativa:** Asigna etiquetas ordinales de rendimiento según la escala final del indicador.
 
 ---
+
+## 📈 Estructura del Tablero (Looker Studio)
+
+El tablero está optimizado para tener conocimiento sobre el juego de Argentina y mediante un resumen de un paneo del resto de los equipos del torneo. Con solo 2 pestañas podemos tener un conocimiento certero del desarrollo del campeonato.
+
