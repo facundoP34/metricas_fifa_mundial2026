@@ -7,7 +7,7 @@ Este repositorio contiene el desarrollo del pipeline de datos (ETL) en Python en
 ## 🛠️ Arquitectura del Proceso (Pipeline)
 
 El script de Python realiza las siguientes tareas críticas de ingeniería de datos:
-1. **Extracción Automatizada (Web Scraping):** extrae los microdatos deportivos directamente desde las fuentes web de origen, automatizando la captura de las estadísticas crudas de rendimiento, ataque y defensa de los jugadores y equipos.
+1. **🕸️ Extracción Automatizada (Web Scraping):** extrae los microdatos deportivos directamente desde las fuentes web de origen, automatizando la captura de las estadísticas crudas de rendimiento, ataque y defensa de los jugadores y equipos.
 2. **Limpieza Vectorizada:** Normaliza variables clave (como transformar la tenencia de texto `"51.5%"` a formato flotante `0.515`).
 3. **Consolidación (Merge):** Cruza bases independientes de ataque y defensa a nivel de jugador/equipo utilizando un identificador único, evitando la pérdida de registros.
 4. **Cálculo del IED:** Aplica un modelo matemático con penalización dinámica atenuada por la cantidad de partidos jugados ($PJ$), evitando sesgos por goleadas atípicas (*outliers*).
