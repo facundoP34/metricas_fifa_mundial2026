@@ -34,4 +34,4 @@ Panel analítico cross-torneo para el análisis comparativo del campeonato media
 * **🔻 Bottom 10 Underperformers:** Reporte de alerta táctica con los 10 peores rendimientos (Segmento de Ineficacia y Colapso).
 * **🎯 Shooting Volume Analysis:** Balance neto de disparos (Tiros a Favor vs. Tiros en Contra) desagregado por institución.
 
-🔗 **[Acceder al Tablero de Control Interactivo | Looker Studio](https://datastudio.google.com/reporting/53ab282a-c94e-4eee-b718-384c8fffabe9/page/p_e1zo69b04d)**
+🔗 **[Accedé aquí al Tablero de Control Interactivo | Looker Studio](https://datastudio.google.com/reporting/53ab282a-c94e-4eee-b718-384c8fffabe9/page/p_e1zo69b04d)**
