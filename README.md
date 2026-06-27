@@ -27,11 +27,16 @@ Módulo descriptivo enfocado en el diagnóstico y auditoría del rendimiento de 
 
 ### 🏆 Componente 2: Resumen del Torneo 
 Panel analítico cross-torneo para el análisis comparativo del campeonato mediante rankings y matrices de dispersión:
-* **⚽ Scoring Leaderboard:** Top de máximos artilleros e indicadores de efectividad individual.
+* **⚽ Scoring Goleador:** Top de máximos artilleros e indicadores de efectividad individual.
 * **🛡️ Defensive Performance:** Matriz de rendimiento de defensores clave y vallas menos vencidas.
 * **🎛️ Possession Ranking:** Distribución de control de juego indexada por club.
 * **🥇 Elite Performance (Top IED):** Clasificación de equipos líderes bajo la métrica del indicador ponderado.
-* **🔻 Bottom 10 Underperformers:** Reporte de alerta táctica con los 10 peores rendimientos (Segmento de Ineficacia y Colapso).
-* **🎯 Shooting Volume Analysis:** Balance neto de disparos (Tiros a Favor vs. Tiros en Contra) desagregado por institución.
+* **🎯 Shooting Volume:** Balance neto de disparos (Tiros a Favor vs. Tiros en Contra) desagregado por institución.
 
-🔗 **[Accedé aquí al Tablero de Control Interactivo | Looker Studio](https://datastudio.google.com/reporting/53ab282a-c94e-4eee-b718-384c8fffabe9/page/p_e1zo69b04d)**
+* ## 📐 Especificación del Modelo Matemático: IED
+
+El **Índice de Eficiencia de Dominio (IED)** evalúa de forma multivariable la relación entre el control del balón y la verticalidad ofensiva/defensiva. Aplicando una penalización dinámica según el el equipo tenga diferencia de gol favorable/neutra o negativa.
+
+
+
+🔗 **[Accedé aquí al Tablero de Control Interactivo | Looker Studio](https://datastudio.google.com/reporting/53ab282a-c94e-4eee-b718-384c8fffabe9/page/O3F2F)**
